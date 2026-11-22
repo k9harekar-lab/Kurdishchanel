@@ -65,10 +65,10 @@ https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d3
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-name="Star TV HD" tvg-logo="https://kurdtvs.net/uploads/files/11-03-2019-f5816467-star-tv-hd-live-kurdtvs.png" group-title="Turkish",Star TV HD
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT Çocuk" tvg-logo="https://kurdtvs.net/uploads/files/10-11-2016-fada8011-trt-cocuk-kurdtvs.png" group-title="Children Turkish",TRT Çocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="MBC Iraq" tvg-logo="https://kurdtvs.net/uploads/files/28-03-2019-26b94a89-mbc-iraq-kurdtvs-live_.png" group-title="Arabic Music",MBC Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/720p1750kbps/video.m3u8
+#EXTINF:-1 tvg-name="TRT Çocuk" tvg-logo="https://kurdtvs.net/uploads/files/10-11-2016-fada8011-trt-cocuk-kurdtvs.png" group-title="Children Turkish",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="RT" tvg-logo="https://kurdtvs.net/uploads/files/29-05-2017-dd712c18-russia-today-kurdtvs.net.png" group-title="News English Documentary",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="Islam Channel" tvg-logo="https://kurdtvs.net/uploads/files/06-06-2016-62f91b3a-islamchannel-kurdtvscom.png" group-title="Documentary English General",Islam Channel
@@ -85,10 +85,10 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC 1" tvg-logo="https://kurdtvs.net/uploads/files/25-02-2017-2f832b33-mbc1-Kurdtvs-net.png" group-title="News Sport Documentary Arabic",MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Arabic" tvg-logo="https://kurdtvs.net/uploads/files/18-05-2016-368cc121-aljazeeraar.png" group-title="News Documentary Arabic",Al Jazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-name="Çira TV HD" tvg-logo="https://kurdtvs.net/uploads/ciratv.png" group-title="Music News General",Çira TV HD
 https://cira-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Arabic" tvg-logo="https://kurdtvs.net/uploads/files/18-05-2016-368cc121-aljazeeraar.png" group-title="News Documentary Arabic",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-name="Teve2 HD" tvg-logo="https://kurdtvs.net/uploads/files/11-03-2019-37b1d95a-teve2-hd-live-kurdtvs.png" group-title="Turkish",Teve2 HD
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-name="Med Muzik TV" tvg-logo="https://kurdtvs.net/uploads/medmuzik.png" group-title="Music Local Turkish",Med Muzik TV
